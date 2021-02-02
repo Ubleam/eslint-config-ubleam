@@ -25,5 +25,11 @@
     "style",
     "eslint",
     "eslintconfig"
-  ]
+  ],
+  "peerDependencies": {
+    "eslint": ">= 7"
+  },
+  "devDependencies": {
+    "eslint": "7.16.0"
+  }
 }
