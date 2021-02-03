@@ -1,0 +1,35 @@
+{
+  "name": "@ubleam/eslint-config",
+  "description": "ESLint Shareable Config used @ubleam.com",
+  "version": "0.1.0",
+  "repository": "git@github.com:Ubleam/ubleam-eslint.git",
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/Ubleam/ubleam-eslint",
+  "author": {
+    "name": "Ubleam",
+    "web": "https://github.com/Ubleam/"
+  },
+  "bugs": {
+    "url": "https://github.com/ubleam/ubleam-eslint/issues"
+  },
+  "engines": {
+    "node": "~14.15.3",
+    "yarn": "~1.22.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "code",
+    "quality",
+    "style",
+    "eslint",
+    "eslintconfig"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 7"
+  },
+  "devDependencies": {
+    "eslint": "7.16.0"
+  }
+}

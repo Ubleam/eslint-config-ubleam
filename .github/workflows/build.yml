@@ -1,0 +1,25 @@
+name: Checks
+
+on: [push, pull_request]
+
+jobs:
+  check-commits:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Check commits
+        uses: wagoid/commitlint-github-action@v2
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: Setup node environment
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.15.3
+      - run: npm install
