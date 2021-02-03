@@ -30,6 +30,6 @@
     "eslint": ">= 7"
   },
   "devDependencies": {
-    "eslint": "7.16.0"
+    "eslint": "7.19.0"
   }
 }
