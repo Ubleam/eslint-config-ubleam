@@ -29,7 +29,6 @@
 
 'use.strict'
 
-module.exports = {
-  rules: {
-  },
-};
+const eslintrc = require('./.eslintrc.js')
+
+module.exports = eslintrc;
