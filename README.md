@@ -2,13 +2,15 @@
 
 > ESLint [shareable config](https://eslint.org/docs/developer-guide/shareable-configs.html) used @[Ubleam](https://github.com/Ubleam)
 
+![build](https://github.com/Ubleam/eslint-config-ubleam/workflows/Build/badge.svg)
+
 ## Installation
 
 ```sh
 $ npm install --save-dev @ubleam/eslint-config
 ```
 
-Package requires [eslint](https://eslint.org/).
+Package require s [eslint](https://eslint.org/).
 
 ## Usage
 
