@@ -2,8 +2,9 @@
 
 > ESLint [shareable config](https://eslint.org/docs/developer-guide/shareable-configs.html) used @[Ubleam](https://github.com/Ubleam)
 
+![status](https://img.shields.io/badge/status-👷%20work%20in%20progress-critical)
 ![build](https://github.com/Ubleam/eslint-config-ubleam/workflows/Build/badge.svg)
-![license](https://img.shields.io/github/license/Ubleam/eslint-config-ubleam)
+![license](https://img.shields.io/github/license/Ubleam/eslint-config-ubleam?color=blue)
 
 ## Purpose & Phylosophy
 
@@ -61,3 +62,13 @@ For instance:
   }
 }
 ```
+
+## Contributing
+
+So you want to contribute.
+
+Don't hesitate to open issues, submit pull requests,
+
+Still, you have to keep in mind that this is the configuration we use at Sigfox, and that we might decline change requests because they don't comply with our internal choices, and not because they are stupid.
+
+Feel free to fork, change, rename and pubish your own package based on this one.
