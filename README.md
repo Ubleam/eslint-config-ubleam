@@ -3,6 +3,7 @@
 > ESLint [shareable config](https://eslint.org/docs/developer-guide/shareable-configs.html) used @[Ubleam](https://github.com/Ubleam)
 
 ![build](https://github.com/Ubleam/eslint-config-ubleam/workflows/Build/badge.svg)
+![license](https://img.shields.io/github/license/Ubleam/eslint-config-ubleam)
 
 ## Purpose & Phylosophy
 
