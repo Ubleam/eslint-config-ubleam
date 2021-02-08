@@ -66,10 +66,6 @@ For instance:
 
 ## Contributing
 
-So you want to contribute.
+So you want to contribute? Great. We appreciate any help you're willing to give. Don't hesitate to open issues and/or submit pull requests.
 
-Don't hesitate to open issues, submit pull requests,
-
-Still, you have to keep in mind that this is the configuration we use at Sigfox, and that we might decline change requests because they don't comply with our internal choices, and not because they are stupid.
-
-Feel free to fork, change, rename and pubish your own package based on this one.
+Remember that this is the configuration we use at [Ubleam](https://github.com/Ubleam), and that we apply everywhere in our private and public projects. This is why we may have to refuse change requests simply because they do not comply with our internal requirements, and not because they are not relevant.
