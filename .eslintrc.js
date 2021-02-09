@@ -60,7 +60,7 @@ module.exports = {
         objectDestructuring: true,
         parameter: true,
         propertyDeclaration: true,
-        variableDeclaration: true,
+        variableDeclaration: false,
         variableDeclarationIgnoreFunction: true
       }
     ],
