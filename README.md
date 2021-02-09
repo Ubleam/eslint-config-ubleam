@@ -2,7 +2,10 @@
 
 > ESLint [shareable config](https://eslint.org/docs/developer-guide/shareable-configs.html) used @[Ubleam](https://github.com/Ubleam)
 
+![status](https://img.shields.io/badge/status-👷%20work%20in%20progress-critical)
 ![build](https://github.com/Ubleam/eslint-config-ubleam/workflows/Build/badge.svg)
+![license](https://img.shields.io/github/license/Ubleam/eslint-config-ubleam?color=blue)
+[![conventional commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
 ## Purpose & Phylosophy
 
@@ -60,3 +63,9 @@ For instance:
   }
 }
 ```
+
+## Contributing
+
+So you want to contribute? Great. We appreciate any help you're willing to give. Don't hesitate to open issues and/or submit pull requests.
+
+Remember that this is the configuration we use at [Ubleam](https://github.com/Ubleam), and that we apply everywhere in our private and public projects. This is why we may have to refuse change requests simply because they do not comply with our internal requirements, and not because they are not relevant.
