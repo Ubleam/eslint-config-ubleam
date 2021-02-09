@@ -40,6 +40,7 @@ module.exports = {
         allowComparingNullableBooleansToFalse: true
       }
     ],
+    "@typescript-eslint/no-inferrable-types": 0,
     "@typescript-eslint/no-unnecessary-condition": 2,
     "@typescript-eslint/prefer-nullish-coalescing": 2,
     "@typescript-eslint/prefer-optional-chain": 2,
@@ -48,7 +49,7 @@ module.exports = {
     "@typescript-eslint/prefer-string-starts-ends-with": 2,
     "@typescript-eslint/promise-function-async": 2,
     "@typescript-eslint/require-array-sort-compare": 2,
-    "@typescript-eslint/strict-boolean-expressions": 2,
+    "@typescript-eslint/strict-boolean-expressions": 0,
     "@typescript-eslint/switch-exhaustiveness-check": 1,
     "@typescript-eslint/typedef": [
       "error",
@@ -59,7 +60,7 @@ module.exports = {
         objectDestructuring: true,
         parameter: true,
         propertyDeclaration: true,
-        variableDeclaration: true,
+        variableDeclaration: false,
         variableDeclarationIgnoreFunction: true
       }
     ],
