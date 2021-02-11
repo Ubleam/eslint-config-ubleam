@@ -26,6 +26,9 @@
     "eslint",
     "eslintconfig"
   ],
+  "scripts": {
+    "release": "standard-version --sign"
+  },
   "peerDependencies": {
     "eslint": ">= 7",
     "@typescript-eslint/eslint-plugin": "^4.14.2",
