@@ -2,15 +2,15 @@
   "name": "@ubleam/eslint-config",
   "description": "ESLint Shareable Config used @ubleam.com",
   "version": "0.1.0",
-  "repository": "git@github.com:Ubleam/ubleam-eslint.git",
+  "repository": "git@github.com:Ubleam/eslint-config-ubleam.git",
   "license": "BSD-3-Clause",
-  "homepage": "https://github.com/Ubleam/ubleam-eslint",
+  "homepage": "https://github.com/Ubleam/eslint-config-ubleam",
   "author": {
     "name": "Ubleam",
     "web": "https://github.com/Ubleam/"
   },
   "bugs": {
-    "url": "https://github.com/ubleam/ubleam-eslint/issues"
+    "url": "https://github.com/Ubleam/eslint-config-ubleam/issues"
   },
   "engines": {
     "node": "~14.15.3",
