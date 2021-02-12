@@ -26,6 +26,9 @@
     "eslint",
     "eslintconfig"
   ],
+  "scripts": {
+    "release": "standard-version --sign"
+  },
   "peerDependencies": {
     "eslint": ">= 7",
     "@typescript-eslint/eslint-plugin": "^4.14.2",
@@ -42,6 +45,7 @@
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "prettier": "^2.2.1"
+    "prettier": "^2.2.1",
+    "standard-version": "^9.1.0"
   }
 }
