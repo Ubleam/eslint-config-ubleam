@@ -2,8 +2,9 @@
 
 > ESLint [shareable config](https://eslint.org/docs/developer-guide/shareable-configs.html) used @[Ubleam](https://github.com/Ubleam)
 
-![status](https://img.shields.io/badge/status-👷%20work%20in%20progress-critical)
 ![build](https://github.com/Ubleam/eslint-config-ubleam/workflows/Build/badge.svg)
+[![npm (scoped)](https://img.shields.io/npm/v/@ubleam/eslint-config)](https://www.npmjs.com/package/@ubleam/eslint-config)
+[![npm bundle size (scoped)](https://img.shields.io/bundlephobia/minzip/@ubleam/eslint-config/latest)](https://bundlephobia.com/result?p=@ubleam/eslint-config@latest)
 ![license](https://img.shields.io/github/license/Ubleam/eslint-config-ubleam?color=blue)
 [![conventional commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
