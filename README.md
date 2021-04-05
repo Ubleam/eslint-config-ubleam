@@ -7,6 +7,7 @@
 [![npm bundle size (scoped)](https://img.shields.io/bundlephobia/minzip/@ubleam/eslint-config/latest)](https://bundlephobia.com/result?p=@ubleam/eslint-config@latest)
 ![license](https://img.shields.io/github/license/Ubleam/eslint-config-ubleam?color=blue)
 [![conventional commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FUbleam%2Feslint-config-ubleam.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FUbleam%2Feslint-config-ubleam?ref=badge_shield)
 
 ## Purpose & Phylosophy
 
@@ -70,3 +71,7 @@ For instance:
 So you want to contribute? Great. We appreciate any help you're willing to give. Don't hesitate to open issues and/or submit pull requests.
 
 Remember that this is the configuration we use at [Ubleam](https://github.com/Ubleam), and that we apply everywhere in our private and public projects. This is why we may have to refuse change requests simply because they do not comply with our internal requirements, and not because they are not relevant.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FUbleam%2Feslint-config-ubleam.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FUbleam%2Feslint-config-ubleam?ref=badge_large)
