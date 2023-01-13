@@ -13,7 +13,7 @@
     "url": "https://github.com/Ubleam/eslint-config-ubleam/issues"
   },
   "engines": {
-    "node": "~14.15.3",
+    "node": "~19.3.0",
     "yarn": "~1.22.0"
   },
   "files": [
@@ -32,9 +32,9 @@
     "release": "standard-version --sign"
   },
   "peerDependencies": {
-    "eslint": ">= 7",
     "@typescript-eslint/eslint-plugin": "^4.14.2",
     "@typescript-eslint/parser": "^4.14.2",
+    "eslint": ">= 7",
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.2.0",
