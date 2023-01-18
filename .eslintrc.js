@@ -12,10 +12,9 @@ module.exports = {
     "plugin:react-hooks/recommended",
     "plugin:@typescript-eslint/recommended",
     "prettier",
-    "prettier/@typescript-eslint"
   ],
   rules: {
-    /** 
+    /**
     * TypeScript rules
     **/
     "no-unused-vars": "off",
@@ -69,7 +68,7 @@ module.exports = {
     "@typescript-eslint/no-duplicate-imports": 2,
     "no-invalid-this": "off",
     "@typescript-eslint/no-invalid-this": 2,
-    /** 
+    /**
     * React rules
     **/
     "react/prop-types": 0,
