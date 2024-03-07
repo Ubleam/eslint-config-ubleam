@@ -1,10 +1,4 @@
 {
-  "name": "@ubleam/eslint-config",
-  "description": "ESLint Shareable Config used @ubleam.com",
-  "version": "0.1.4",
-  "repository": "git@github.com:Ubleam/eslint-config-ubleam.git",
-  "license": "BSD-3-Clause",
-  "homepage": "https://github.com/Ubleam/eslint-config-ubleam",
   "author": {
     "name": "Ubleam",
     "web": "https://github.com/Ubleam/"
@@ -12,30 +6,7 @@
   "bugs": {
     "url": "https://github.com/Ubleam/eslint-config-ubleam/issues"
   },
-  "files": [
-    "index.js",
-    ".eslintrc.js",
-    ".editorconfig"
-  ],
-  "keywords": [
-    "code",
-    "quality",
-    "style",
-    "eslint",
-    "eslintconfig"
-  ],
-  "scripts": {
-    "release": "standard-version --sign"
-  },
-  "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.14.2",
-    "@typescript-eslint/parser": "^4.14.2",
-    "eslint": ">= 7",
-    "eslint-config-prettier": "^7.2.0",
-    "eslint-plugin-react": "^7.22.0",
-    "eslint-plugin-react-hooks": "^4.2.0",
-    "prettier": "^2.2.1"
-  },
+  "description": "ESLint Shareable Config used @ubleam.com",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.14.2",
     "@typescript-eslint/parser": "^4.14.2",
@@ -45,5 +16,34 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "prettier": "^2.2.1",
     "standard-version": "^9.1.0"
-  }
+  },
+  "files": [
+    "index.js",
+    ".eslintrc.js",
+    ".editorconfig"
+  ],
+  "homepage": "https://github.com/Ubleam/eslint-config-ubleam",
+  "keywords": [
+    "code",
+    "quality",
+    "style",
+    "eslint",
+    "eslintconfig"
+  ],
+  "license": "BSD-3-Clause",
+  "name": "@ubleam/eslint-config",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.14.2",
+    "@typescript-eslint/parser": "^4.14.2",
+    "eslint": "\u003e= 7",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.2.1"
+  },
+  "repository": "git@github.com:Ubleam/eslint-config-ubleam.git",
+  "scripts": {
+    "release": "standard-version --sign"
+  },
+  "version": "0.1.4"
 }
